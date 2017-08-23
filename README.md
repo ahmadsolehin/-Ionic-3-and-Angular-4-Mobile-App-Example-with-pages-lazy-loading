@@ -1,4 +1,4 @@
-# ionic3-angular4-sample-app
+# ionic3-angular4-simple-app
 
 To run this source:
 
